@@ -18,7 +18,7 @@ export const getPosts = async() => {
                         }
                             createdAt
                             slug
-                            ttile
+                            title
                             excerpt
                             featuredImage {
                                 url
